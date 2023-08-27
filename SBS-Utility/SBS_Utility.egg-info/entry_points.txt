@@ -1,3 +1,0 @@
-[console_scripts]
-your-utility = your_utility.script:main
-
